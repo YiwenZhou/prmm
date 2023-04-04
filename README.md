@@ -1,2 +1,2 @@
 # prmm
-Preload resource management model (PSMM) aims to get rid of cache functionality forever.
+Preload resource management model (PSMM) aims to replace circumstances that using cache is literally unsafe.  
